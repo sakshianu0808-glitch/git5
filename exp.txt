@@ -1,3 +1,7 @@
 initial 
 remote change
+<<<<<<< HEAD
 change2
+=======
+local
+>>>>>>> 757355b (Local up2)
